@@ -15,7 +15,7 @@ SSL采用了非对称加密与对称加密相混合的方式来通信，用非�
 
 SSL 握手的关键流程如下，通信过程中携带的诸如 SSL 版本信息等非关键信息已经用其它代替：
 
-![SSL handshake](images/ssl.png "SSL handshake")
+![SSL handshake](https://raw.githubusercontent.com/huanzhiyazi/reading-summary/master/%E8%AE%A1%E7%AE%97%E6%9C%BA/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/SSL%E6%8F%A1%E6%89%8B%E5%8E%9F%E7%90%86/images/ssl.png "SSL handshake")
 
 要点如下：
 
