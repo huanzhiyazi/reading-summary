@@ -48,7 +48,7 @@
 
 - 欧拉 phi 函数（即模n乘法群规模大小） ***```φ(n)```*** 的定义如下：
 
-![Euler's phi function](images/euler_phi_function.png "Euler's phi function")
+![Euler's phi function](https://raw.githubusercontent.com/huanzhiyazi/reading-summary/master/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/RSA%E5%8A%A0%E5%AF%86%E5%8E%9F%E7%90%86/images/euler_phi_function.png "Euler's phi function")
 
 - 模线性方程的一个推论：**对任意 n>1，如果 gcd(a,n) = 1，那么方程 ax ≡ 1(mod n) 对 n 有唯一解；否则方程无解**。此处，**x 称为 a 对模 n 的乘法逆元**。
 
